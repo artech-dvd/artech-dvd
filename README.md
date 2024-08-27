@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub :-)
 
-I'm a 14 y/o M (he/him), (mostly) amateur software developer mainly looking to use my skills in aiding in restoration and archival projects of old and obscure tech.
+I'm a 14 y/o M (he/him), (mostly) amateur low- and high-level software (and occasionally hardware) engineer mainly looking to use my skills in aiding in restoration and archival projects of old and obscure tech.
 
 Ironically, I don't have much on my GitHub yet, since most of my recent programming projects were made entirely by myself.
 
